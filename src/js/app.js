@@ -13,7 +13,7 @@ if ('serviceWorker' in navigator) {
             console.log('Services Worker registered.')
         })
         .catch(function (err) {
-            console.err('[ERROR]', err);
+            console.error('[ERROR]', err);
         })
 }
 
