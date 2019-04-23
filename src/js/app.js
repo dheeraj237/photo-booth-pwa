@@ -6,7 +6,7 @@ if (!window.Promise) {
 
 if ('serviceWorker' in navigator) {
     navigator.serviceWorker
-        .register('/sw.js'
+        .register('/photo-booth-pwa/sw.js'
             // ,{scope:'/help/'}
         )
         .then(function () {
