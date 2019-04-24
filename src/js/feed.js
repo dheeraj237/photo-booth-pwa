@@ -55,4 +55,5 @@ fetch('https://httpbin.org/get')
   })
   .then(function (data) {
     createCard();
+    createCard();
   });
