@@ -42,7 +42,7 @@
     "scope": ".",
     "display": "standalone",
     "orientation": "portrait-primary",
-    "background_color": "#ffff",
+    "background_color": "#3f51b5",
     "theme_color": "#3f51b5",
     "description": "Photobooth PWA app to uload and manage photos.",
     "dir": "ltr",
